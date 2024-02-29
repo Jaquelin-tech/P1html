@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="../CSS/style.css">
+    </head>
+    <body>
+        <h1>prueba 2</h1>
+        <div class="divicioncita"> este es un elemento que tiene un borde.
+            Tiene un margen superior 
+            de 25 pixeles
+        </div>
+    </body>
+</html>
+
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="../CSS/style.css">
+    </head>
+    <body>
+        <h1>prueba 3</h1>
+        <div class="divicioncita2"> este es un elemento que tiene un borde.
+            Tiene un margen superior 
+            de 25 pixeles
+        </div>
+    </body>
+</html>
